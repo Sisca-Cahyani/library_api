@@ -1,4 +1,4 @@
-#Pembuatan Aplikasi Ini menggunakan Bahasa Python
+#Pembuatan Aplikasi Ini menggunakan Bahasa Python, dan menggunakan html sebagai pembuat halaman browesernya.
 #Menggunakan Library Flask, jsony, request, render tamplate dan redirect dan url_for
 #dengan rincian funsgi sebagai berikut
 #Flask: Framework utama untuk pengembangan aplikasi web.
